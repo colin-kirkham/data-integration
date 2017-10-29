@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<billing-records>
+    <billing-record>
+        <customer-id>123</customer-id>
+        <name>
+            <first>Colin</first>
+            <last>Kirkham</last>
+        </name>
+        <address>70 St Mary's Rd, Long Ditton, Surbiton KT6 5EY, UK</address>
+        <total>26.42</total>
+        <items>
+            <item>
+                <sequence>1</sequence>
+                <details>SMS</details>
+                <amount>1.26</amount>
+            </item>
+            <item>
+                <sequence>2</sequence>
+                <details>Calls</details>
+                <amount>16.42</amount>
+            </item>
+            <item>
+                <sequence>3</sequence>
+                <details>International</details>
+                <amount>8.74</amount>
+            </item>
+        </items>       
+    </billing-record>
+    <billing-record>
+        <customer-id>456</customer-id>
+        <name>
+            <first>Allan</first>
+            <last>Christian</last>
+        </name>
+        <address>7 Overton Rd, Birmingham B27 7LN, UK</address>
+        <total>43.29</total>
+        <items>
+            <item>
+                <sequence>1</sequence>
+                <details>SMS</details>
+                <amount>2.21</amount>
+            </item>
+            <item>
+                <sequence>2</sequence>
+                <details>Calls</details>
+                <amount>27.53</amount>
+            </item>
+            <item>
+                <sequence>3</sequence>
+                <details>International</details>
+                <amount>13.55</amount>
+            </item>
+        </items>
+    </billing-record>
+</billing-records>

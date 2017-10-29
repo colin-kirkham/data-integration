@@ -1,0 +1,5 @@
+flask
+humanize
+num2words
+boto3
+zappa
